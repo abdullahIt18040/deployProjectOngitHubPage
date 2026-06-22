@@ -67,6 +67,8 @@ git push origin main
 Project root-এ file তৈরি করো:
 
 .github/workflows/deploy.yml
+<img width="1069" height="486" alt="image" src="https://github.com/user-attachments/assets/59aa8ff9-b4a1-4a08-99ce-59a2cb2e879f" />
+
 
 Content:
 
