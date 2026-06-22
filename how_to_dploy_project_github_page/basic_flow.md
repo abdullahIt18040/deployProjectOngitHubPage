@@ -177,3 +177,8 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 ```
+### Project root-এ file তৈরি করো:
+
+.github/workflows/deploy.yml
+<img width="1069" height="486" alt="image" src="https://github.com/user-attachments/assets/daaf0098-ec6e-43b7-be05-b7e34c83c2f9" />
+
